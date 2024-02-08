@@ -76,6 +76,4 @@ public class FluidDynamics {
         if (flowRate == 0) throw new IllegalArgumentException("Flow rate cannot be zero.");
         return (Math.PI * Math.pow(radius, 4) * pressureDifference) / (8 * length * flowRate);
     }
-    
-    // Add more methods for fluid dynamics as necessary...
 }
