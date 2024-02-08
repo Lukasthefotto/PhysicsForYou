@@ -38,12 +38,11 @@ import com.physicsforyou.Mechanics;
 
 public class Example {
     public static void main(String[] args) {
-        double mass1 = 5.972e24; // Earth's mass in kg
-        double mass2 = 7.348e22; // Moon's mass in kg
-        double distance = 384400000; // Distance between Earth and Moon in meters
+        double mass = 5.972e24; 
+        double velocity = 700000; 
 
-        double force = Mechanics.gravityForce(mass1, mass2, distance);
-        System.out.println("The gravitational force between Earth and Moon is: " + force + " N");
+        double kineticEnergy  = Mechanics.calculateKineticEnergy(mass, velocity);
+        System.out.println("The kinetic energy of this object is: " + kineticEnergy + " Joules");
     }
 }
 ```
