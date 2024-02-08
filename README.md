@@ -6,7 +6,7 @@ PhysicsForYou is a Java library designed to offer a wide range of physics formul
 ## Features
 
 - **Wide Range of Formulas**: Offers accessible formulas from mechanics, thermodynamics, and fluid dynamics.
-- **Easy-to-Use API**: Designed with simplicity in mind, allowing you to effortlessly integrate physics calculations into your projects.
+- **Easy-to-Use Library**: Designed with simplicity in mind, allowing you to effortlessly integrate physics calculations into your projects.
 - **Comprehensive Documentation**: Each class and method is documented, making it easy to understand how to use the library.
 - **Modular Design**: Organized into three main components:
   - `FluidDynamics.java` for fluid mechanics calculations.
