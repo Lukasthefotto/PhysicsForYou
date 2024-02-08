@@ -1,7 +1,7 @@
 
 # PhysicsForYou
 
-PhysicsForYou is a Java library designed to offer a wide range of physics formulas through simple method calls. It facilitates the implementation of physics calculations in academic, educational, and software development projects. Whether you're building a physics simulation, solving academic problems, or just exploring the wonders of physical laws, PhysicsForYou provides an easy-to-use API to access a variety of physics formulas.
+PhysicsForYou is a Java library designed to offer a wide range of physics formulas through simple method calls. It facilitates the implementation of physics calculations in academic, educational, and software development projects. Whether you're building a physics simulation, solving academic problems, or just exploring the wonders of physical laws, PhysicsForYou provides an easy-to-use Library to access a variety of physics formulas.
 
 ## Features
 
