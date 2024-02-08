@@ -56,7 +56,3 @@ We welcome contributions from the community! If you'd like to contribute to Phys
 2. Create a new branch for your feature or fix.
 3. Commit your changes.
 4. Push to your fork and submit a pull request.
-
-## License
-
-PhysicsForYou is open source and available under the MIT License. See the LICENSE file for more information.
